@@ -1,0 +1,7 @@
+dotenv: .env
+
+networks:
+  ropsten:
+    verify: true
+  mainnet:
+    verify: true
